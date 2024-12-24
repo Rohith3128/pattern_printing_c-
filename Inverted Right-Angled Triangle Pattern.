@@ -9,7 +9,7 @@ int main() {
     for(int i=row;i>0;i--){
         for(int j=i;j>0;j--){
             cout<<"* ";
-        }
+        }m
         cout<<endl;
     }
     return 0;
